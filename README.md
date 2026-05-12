@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/luizasenacafe/luizasenacafe/main/github.png" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile!;)](https://git.io/typing-svg)
 <h1 align="center">oiie, eu sou a Luiza :D</h1>
 <h3 align="center">Estudante de Ciência da Computação.</h3>
