@@ -4,14 +4,15 @@
 
 ---
 
-### 👩‍💻 Sobre mim
-- 🎓 Ciência da Computação
-- 💻 Focada em desenvolvimento
-- 🌱 Aprendendo Java, Python e Web
+### Sobre mim
+-  Ciência da Computação
+-  Focada em desenvolvimento
+-  Aprendendo Java, Python e Web
+-  Ingressando na CiberSegurança
 
 ---
 
-### 🚀 Tecnologias
+### Tecnologias
 <div>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,linux" />
 </div>
@@ -19,7 +20,7 @@
 ---
 
 
-### 📫 Contato
+### Contato
 [LinkedIn](https://www.linkedin.com/in/luiza-sena-5645913a7/)
 
 <!--
