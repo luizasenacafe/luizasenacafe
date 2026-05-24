@@ -2,17 +2,15 @@
   <img src="https://raw.githubusercontent.com/luizasenacafe/luizasenacafe/main/yuji.jpeg" width="120">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <h1 align="center">oiie, eu sou a Luiza :D</h1>
 <h3 align="center">Estudante de Ciência da Computação.</h3>
 
 ---
 
 ### Sobre mim
--  Ciência da Computação
 -  Focada em desenvolvimento
 -  Aprendendo Java, Python e Web
--  Ingressando na CiberSegurança
+-  Ingressando em I.A e Cibersegurança
 
 ---
 
