@@ -1,4 +1,4 @@
-## Hi there<div align="center">
+
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RhMDVldWdoMm1wNTljOWRrZnlmMDRmbnIyMnZhYTRqYWkwOW4wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CCiCwrKIvodowJBbtf/giphy.gif"  />
 </div>
 
@@ -47,5 +47,4 @@
   </a>
 </div>
 
-### 👋
 
