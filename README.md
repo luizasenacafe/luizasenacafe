@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">- Foco em desenvolvimento web.<br>    - Aprendendo Java, Python e HTML.<br>     - Ingressando em I.A e em Cibersegurança.<br>- Estudante de Ciência da Computação.</p>
+<p align="center">- Foco em desenvolvimento web.<br>    - Aprendendo Java, Python e HTML.<br>     - Aspirante à Computação Quântica.<br>- Estudante de Ciência da Computação, Física e I.A e Machine Learning.</p>
 
 ###
 
