@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Luiza Sena — Inteligência artificial, código e curiosidade científica">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151525"/><stop offset="1" stop-color="#30192d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#ffb4bd"/><stop offset="1" stop-color="#ef476f"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1000" height="240" rx="20" fill="url(#bg)"/>
+  <rect width="1000" height="240" rx="20" fill="url(#grid)"/>
+  <path d="M765 -30L630 270M855 -30L720 270M945 -30L810 270M1035 -30L900 270" stroke="#ef476f" stroke-width="28" opacity=".12"/>
+  <rect x="50" y="48" width="5" height="145" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="78" y="67" fill="#ffb4bd" font-size="13" letter-spacing="4">CURIOSIDADE EM MODO INFINITO</text>
+    <text x="75" y="132" fill="#fff5f7" font-size="54" font-weight="700">Luiza Sena</text>
+    <text x="78" y="171" fill="#e4c9d5" font-size="19">Inteligência artificial, código e curiosidade científica.</text>
+    <text x="78" y="206" fill="#c997aa" font-size="12" letter-spacing="2">PROMPTS · LLMs · DESENVOLVIMENTO · FÍSICA</text>
+    <text x="865" y="140" fill="#ffb4bd" font-size="44" font-weight="700" text-anchor="middle">&lt;/&gt;</text>
+    <text x="865" y="168" fill="#e4c9d5" font-size="11" letter-spacing="3" text-anchor="middle">KEEP LEARNING</text>
+  </g>
+</svg>
