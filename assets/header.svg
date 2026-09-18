@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Luiza Sena — Inteligência artificial, código e curiosidade científica">
+  <style>
+  .letter { fill: #f39bb9; animation: rose 7s ease-in-out infinite; }
+  @keyframes rose { 0%,30%,100% { fill: #f39bb9; } 12%,18% { fill: #ffe2ed; } }
+  @media (prefers-reduced-motion: reduce) { .letter { animation: none; } }
+</style>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151525"/><stop offset="1" stop-color="#30192d"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#ffb4bd"/><stop offset="1" stop-color="#ef476f"/></linearGradient>
@@ -10,7 +15,7 @@
   <rect x="50" y="48" width="5" height="145" rx="2" fill="url(#accent)"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="78" y="67" fill="#ffb4bd" font-size="13" letter-spacing="4">CURIOSIDADE EM MODO INFINITO</text>
-    <text x="75" y="132" fill="#fff5f7" font-size="54" font-weight="700">Luiza Sena</text>
+    <text x="75" y="132" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" xml:space="preserve"><tspan class="letter" style="animation-delay:0.000s">L</tspan><tspan class="letter" style="animation-delay:0.055s">u</tspan><tspan class="letter" style="animation-delay:0.110s">i</tspan><tspan class="letter" style="animation-delay:0.165s">z</tspan><tspan class="letter" style="animation-delay:0.220s">a</tspan><tspan class="letter" style="animation-delay:0.275s"> </tspan><tspan class="letter" style="animation-delay:0.330s">S</tspan><tspan class="letter" style="animation-delay:0.385s">e</tspan><tspan class="letter" style="animation-delay:0.440s">n</tspan><tspan class="letter" style="animation-delay:0.495s">a</tspan></text>
     <text x="78" y="171" fill="#e4c9d5" font-size="19">Inteligência artificial, código e curiosidade científica.</text>
     <text x="78" y="206" fill="#c997aa" font-size="12" letter-spacing="2">PROMPTS · LLMs · DESENVOLVIMENTO · FÍSICA</text>
     <text x="865" y="140" fill="#ffb4bd" font-size="44" font-weight="700" text-anchor="middle">&lt;/&gt;</text>

@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Luiza Sena — Inteligência artificial, código e curiosidade científica" />
 
-<h3>Engenheira de prompts · Treinadora de IA · Estudante de Computação, IA e Física</h3>
+<h3><img src="assets/titles/intro.svg" width="880" alt="Engenheira de prompts · Treinadora de IA · Estudante de Computação, IA e Física" /></h3>
 
 <p>Entre modelos de linguagem, linhas de código e perguntas sobre o universo.</p>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌸 Oi, eu sou a Luiza!
+## <img src="assets/titles/about.svg" width="880" alt="🌸 Oi, eu sou a Luiza!" />
 
 <img align="right" src="assets/yuji-smile.gif" width="165" alt="Retrato animado de Itadori Yuji com seu capuz vermelho" />
 
@@ -30,7 +30,7 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 
 <br clear="both" />
 
-## ⚡ Meu conjunto de técnicas
+## <img src="assets/titles/skills.svg" width="880" alt="⚡ Meu conjunto de técnicas" />
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="54" alt="Python" />
@@ -49,7 +49,7 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 | **Desenvolvimento** | Python, JavaScript, HTML, CSS, Git, GitHub e linha de comando Linux |
 | **Em aprendizado** | Machine learning, fundamentos de cibersegurança e a interseção entre IA e ciências físicas |
 
-## 🥊 Missões na prática
+## <img src="assets/titles/projects.svg" width="880" alt="🥊 Missões na prática" />
 
 | Projeto | O que você vai encontrar |
 | :--- | :--- |
@@ -57,7 +57,7 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 | **[Random Animes](https://luizasenacafe.github.io/random_animes/)** | Aplicação web para descobrir animes e mangás, com filtros por gênero e modos de navegação separados. |
 | **[Meu portfólio](https://luizasenacafe.github.io/)** | Um ponto de encontro para meus projetos, competências, certificações e trajetória profissional. |
 
-## 🎓 Aprendizado em movimento
+## <img src="assets/titles/learning.svg" width="880" alt="🎓 Aprendizado em movimento" />
 
 Minha formação conecta três perspectivas: construir sistemas, compreender inteligência artificial e investigar o mundo físico.
 
@@ -68,13 +68,13 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 <details>
 <summary><strong>📜 Experiências e certificações</strong></summary>
 
-### Experiência
+### <img src="assets/titles/experience.svg" width="880" alt="Experiência" />
 
 - **Outlier AI · Engenheira de Prompts** — desde abril de 2026. Criação, teste e avaliação de prompts, revisão de respostas e documentação de critérios de avaliação.
 - **RWS Group · Analista de Dados e Treinadora de IA** — 2025–2026. Anotação de dados, avaliação de qualidade e possíveis vieses, além de feedback para treinamento de modelos.
 - **Desenvolvimento web freelancer** — 2024–2025. Planejamento, desenvolvimento e publicação de um site profissional responsivo para uma profissional de Psicologia.
 
-### Formação complementar
+### <img src="assets/titles/courses.svg" width="880" alt="Formação complementar" />
 
 - **AI Specialist · Santander Digital Immersion** — Alura, FIAP, PM3 e StartSe · 107 horas.
 - **Introdução à Cibersegurança** — Cisco Networking Academy.
@@ -85,7 +85,7 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 
 </details>
 
-## 👾 Arcade — mais uma fase, mais um commit
+## <img src="assets/titles/arcade.svg" width="880" alt="👾 Arcade — mais uma fase, mais um commit" />
 
 <p align="center">Meu histórico de contribuições em modo Galaga. Press start! 🚀</p>
 
@@ -101,7 +101,7 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 
 <img src="assets/yuji-team.gif" width="360" alt="Itadori Yuji comemorando com Nobara e Megumi" />
 
-<h3>Vamos trocar ideias e construir coisas legais?</h3>
+<h3><img src="assets/titles/contact.svg" width="880" alt="Vamos trocar ideias e construir coisas legais?" /></h3>
 
 <p>IA, ciência, desenvolvimento ou uma boa recomendação de anime.</p>
 
