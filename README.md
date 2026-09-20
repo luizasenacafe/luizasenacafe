@@ -53,7 +53,7 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 
 | Projeto | O que você vai encontrar |
 | :--- | :--- |
-| **[Aurora AI](https://github.com/luizasenacafe/Aurora_AI)** | Assistente doméstica de IA local, com foco em privacidade, integração com LM Studio e perfis de interação personalizados. |
+| **[Betelgeuse A.I.](https://github.com/luizasenacafe/Aurora_AI)** | Aplicação de IA local e privada que conecta modelos baixados no LM Studio e permite executá-los no computador ou em um servidor próprio, mantendo prompts e conversas sob o controle de quem usa. |
 | **[Random Animes](https://luizasenacafe.github.io/random_animes/)** | Aplicação web para descobrir animes e mangás, com filtros por gênero e modos de navegação separados. |
 | **[Meu portfólio](https://luizasenacafe.github.io/)** | Um ponto de encontro para meus projetos, competências, certificações e trajetória profissional. |
 
