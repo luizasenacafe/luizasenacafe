@@ -6,7 +6,7 @@
 
 <p><strong>ENERGIA INFINITA. IDEIAS SEM LIMITES.</strong><br>Entre modelos de linguagem, linhas de código e perguntas sobre o universo.</p>
 
-<img src="assets/android17.jpg" width="440" alt="Android 17, de Dragon Ball, com seu uniforme verde de ranger" />
+<img src="assets/android17.gif" width="440" alt="GIF do Android 17, de Dragon Ball Super, com o cabelo ao vento" />
 
 <p><sub>Calma na postura. Força nas ideias. Energia infinita para a próxima missão. ∞</sub></p>
 
@@ -119,7 +119,7 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 <details>
 <summary>Créditos visuais</summary>
 
-Android 17 e Dragon Ball pertencem aos seus respectivos titulares. Perfil de fã, sem afiliação oficial. Imagem do personagem fornecida para a personalização; banners e emblemas criados para este perfil.
+Android 17 e Dragon Ball pertencem aos seus respectivos titulares. Perfil de fã, sem afiliação oficial. GIF do personagem: [Tenor](https://tenor.com/view/android17-gif-19250086). Banners e emblemas criados para este perfil.
 
 - Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/).
 
