@@ -4,21 +4,21 @@
 
 <h3><img src="assets/titles/intro.svg" width="880" alt="Engenheira de prompts · Treinadora de IA · Estudante de Computação, IA e Física" /></h3>
 
-<p>Entre modelos de linguagem, linhas de código e perguntas sobre o universo.</p>
+<p><strong>ENERGIA INFINITA. IDEIAS SEM LIMITES.</strong><br>Entre modelos de linguagem, linhas de código e perguntas sobre o universo.</p>
 
-<img src="assets/yuji-hero.gif" width="533" alt="Itadori Yuji em ação, com energia azul nas mãos" />
+<img src="assets/android17.jpg" width="440" alt="Android 17, de Dragon Ball, com seu uniforme verde de ranger" />
 
-<p><sub>Energia de Itadori para aprender, criar e encarar o próximo desafio. 🥊</sub></p>
+<p><sub>Calma na postura. Força nas ideias. Energia infinita para a próxima missão. ∞</sub></p>
 
-<a href="https://luizasenacafe.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-f7a8b8?style=for-the-badge&amp;logo=github&amp;logoColor=171321" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/luiza-sena-5645913a7/"><img src="https://img.shields.io/badge/LINKEDIN-cb395a?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:luiizan12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-242038?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffb4bd" alt="Enviar e-mail" /></a>
+<a href="https://luizasenacafe.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-365542?style=for-the-badge&amp;logo=github&amp;logoColor=eeeee4" alt="Portfólio" /></a>
+<a href="https://www.linkedin.com/in/luiza-sena-5645913a7/"><img src="https://img.shields.io/badge/LINKEDIN-f5803c?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:luiizan12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-17251e?style=for-the-badge&amp;logo=gmail&amp;logoColor=d5ef88" alt="Enviar e-mail" /></a>
 
 </div>
 
-## <img src="assets/titles/about.svg" width="880" alt="🌸 Oi, eu sou a Luiza!" />
+## <img src="assets/titles/about.svg" width="880" alt="01 / Por trás da energia" />
 
-<img align="right" src="assets/yuji-smile.gif" width="165" alt="Retrato animado de Itadori Yuji com seu capuz vermelho" />
+<img align="right" src="assets/ranger-emblem.svg" width="165" alt="Emblema verde e laranja: Monster Island Ranger 17, energia infinita" />
 
 Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliação de respostas de grandes modelos de linguagem, anotação de dados e documentação de fluxos técnicos. Gosto de aproximar **tecnologia, pensamento científico e necessidades reais**.
 
@@ -30,7 +30,7 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 
 <br clear="both" />
 
-## <img src="assets/titles/skills.svg" width="880" alt="⚡ Meu conjunto de técnicas" />
+## <img src="assets/titles/skills.svg" width="880" alt="02 / Arsenal de técnicas" />
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="54" alt="Python" />
@@ -49,15 +49,15 @@ Sou **engenheira de prompts e treinadora de IA**, com experiência em avaliaçã
 | **Desenvolvimento** | Python, JavaScript, HTML, CSS, Git, GitHub e linha de comando Linux |
 | **Em aprendizado** | Machine learning, fundamentos de cibersegurança e a interseção entre IA e ciências físicas |
 
-## <img src="assets/titles/projects.svg" width="880" alt="🥊 Missões na prática" />
+## <img src="assets/titles/projects.svg" width="880" alt="03 / Missões selecionadas" />
 
 | Projeto | O que você vai encontrar |
 | :--- | :--- |
 | **[Betelgeuse A.I.](https://github.com/luizasenacafe/Aurora_AI)** | Aplicação de IA local e privada que conecta modelos baixados no LM Studio e permite executá-los no computador ou em um servidor próprio, mantendo prompts e conversas sob o controle de quem usa. |
 | **[Random Animes](https://luizasenacafe.github.io/random_animes/)** | Aplicação web para descobrir animes e mangás, com filtros por gênero e modos de navegação separados. |
-| **[Meu portfólio](https://luizasenacafe.github.io/)** | Um ponto de encontro para meus projetos, competências, certificações e trajetória profissional. |
+| **[Meu portfólio](https://luizasenacafe.github.io/)** | Meu universo de IA, código e ciência, agora na edição Android 17: energia infinita e ideias sem limites. |
 
-## <img src="assets/titles/learning.svg" width="880" alt="🎓 Aprendizado em movimento" />
+## <img src="assets/titles/learning.svg" width="880" alt="04 / Evolução constante" />
 
 Minha formação conecta três perspectivas: construir sistemas, compreender inteligência artificial e investigar o mundo físico.
 
@@ -85,9 +85,9 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 
 </details>
 
-## <img src="assets/titles/arcade.svg" width="880" alt="👾 Arcade — mais uma fase, mais um commit" />
+## <img src="assets/titles/arcade.svg" width="880" alt="05 / Uma missão por vez" />
 
-<p align="center">Meu histórico de contribuições em modo Galaga. Press start! 🚀</p>
+<p align="center">Cada contribuição, um passo para a próxima fase. Meu histórico em modo Galaga. 🚀</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizasenacafe/luizasenacafe/pacman-output/galaga-contribution-graph-dark.svg">
@@ -99,9 +99,9 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 
 <div align="center">
 
-<img src="assets/yuji-team.gif" width="360" alt="Itadori Yuji comemorando com Nobara e Megumi" />
+<img src="assets/energy-divider.svg" width="880" alt="Energia infinita para criar, aprender e proteger o que importa" />
 
-<h3><img src="assets/titles/contact.svg" width="880" alt="Vamos trocar ideias e construir coisas legais?" /></h3>
+<h3><img src="assets/titles/contact.svg" width="880" alt="06 / Vamos criar algo incrível?" /></h3>
 
 <p>IA, ciência, desenvolvimento ou uma boa recomendação de anime.</p>
 
@@ -112,18 +112,15 @@ Minha formação conecta três perspectivas: construir sistemas, compreender int
 
 <p><sub>Discord: <code>karlpuccinomarx</code></sub></p>
 
-<p>🌸 Aprendendo um pouco mais a cada missão.</p>
+<p>🌿 Espírito livre. Mente curiosa. Uma nova missão a cada commit.</p>
 
 </div>
 
 <details>
 <summary>Créditos visuais</summary>
 
-Itadori Yuji e os personagens de Jujutsu Kaisen pertencem aos seus respectivos titulares. GIFs usados para personalização de perfil de fã, sem afiliação oficial.
+Android 17 e Dragon Ball pertencem aos seus respectivos titulares. Perfil de fã, sem afiliação oficial. Imagem do personagem fornecida para a personalização; banners e emblemas criados para este perfil.
 
-- [Itadori em ação — GIPHY](https://giphy.com/gifs/CCiCwrKIvodowJBbtf) · animação presente no perfil original.
-- [Retrato de Itadori — Tenor](https://tenor.com/view/itadori-yuji-gif-21648123).
-- [Itadori e o trio — Tenor](https://tenor.com/view/jujutsu-kaisen-itadori-yuji-gif-25285781).
 - Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/).
 
 </details>
