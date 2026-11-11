@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Luiza Sena — engenheira de prompts, treinadora de IA e desenvolvedora. Computação, Inteligência Artificial e Física." />
+<img src="assets/header.svg" width="100%" alt="Hello, World — engenheira de prompts, treinadora de IA e desenvolvedora. Computação, Inteligência Artificial e Física." />
 
 <img src="assets/titles/intro.svg" width="880" alt=">_ transformando prompts, código e física em coisas que funcionam" />
 
@@ -11,19 +11,11 @@
 
 </div>
 
-## <img src="assets/titles/about.svg" width="880" alt="01 / Sobre mim" />
+## <img src="assets/titles/about.svg" width="880" alt="01 / Sobre" />
 
-<img align="right" src="assets/sigil.svg" width="165" alt="Sigilo com as iniciais LS" />
-
-Sou **engenheira de prompts e treinadora de IA**. Avalio respostas de grandes modelos de linguagem, anoto dados e documento critérios técnicos. Fora do expediente, construo aplicações e estudo o que faz o universo funcionar.
-
-- 🗡️ Crio e testo prompts, reviso respostas e caço padrões de falha e vieses em IA.
-- 🖤 Desenvolvo aplicações web e desktop, com foco em **IA local e privacidade**.
-- 🌑 Curso **Ciência da Computação**, **IA e Aprendizado de Máquina** e **Física**.
-- ⚔️ Interesses: IA para descoberta científica, física computacional e computação quântica.
-- ☕ Movida a café, animes e boss fights contra questões de cálculo.
-
-<br clear="both" />
+<p align="center">
+  <img src="assets/about-card.svg" width="880" alt="Sou engenheira de prompts e treinadora de IA. Avalio respostas de grandes modelos de linguagem, anoto dados e documento critérios técnicos. Fora do expediente, construo aplicações e estudo o que faz o universo funcionar. Classe: engenheira de prompts e treinadora de IA. Ofício: crio e testo prompts, reviso respostas e caço padrões de falha e vieses em IA. Forja: aplicações web e desktop, com foco em IA local e privacidade. Grimórios: Ciência da Computação, IA e Aprendizado de Máquina, Física. Busca: IA para descoberta científica, física computacional e computação quântica. Combustível: café, animes e boss fights contra questões de cálculo." />
+</p>
 
 ## <img src="assets/titles/skills.svg" width="880" alt="02 / Arsenal" />
 
@@ -31,29 +23,51 @@ Sou **engenheira de prompts e treinadora de IA**. Avalio respostas de grandes mo
   <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,react,electron,vite,sqlite,mysql,git,github,linux&amp;theme=dark&amp;perline=15" alt="Python, JavaScript, TypeScript, C, C++, HTML, CSS, React, Electron, Vite, SQLite, MySQL, Git, GitHub e Linux" />
 </p>
 
-| Classe | Habilidades |
-| :--- | :--- |
-| **IA e dados** | Engenharia de prompts, avaliação e alinhamento de LLMs, anotação de dados, análise de vieses |
-| **IA local e privacidade** | LM Studio, modelos rodando em hardware próprio, SQLite, tratamento responsável de dados |
-| **Desenvolvimento** | Python (PySide6), JavaScript, TypeScript, React, Electron, HTML, CSS, C e C++ |
-| **Ferramentas** | Git, GitHub e linha de comando Linux |
-| **Em treinamento** | Machine learning, fundamentos de cibersegurança e a interseção entre IA e ciências físicas |
+<p align="center">
+  <img src="assets/titles/epi-skills.svg" width="880" alt="Cada ferramenta, uma lâmina" />
+</p>
+
+◆ **IA E DADOS**<br>
+<kbd>Engenharia de prompts</kbd> <kbd>Avaliação de LLMs</kbd> <kbd>Alinhamento</kbd> <kbd>Anotação de dados</kbd> <kbd>Análise de vieses</kbd>
+
+◆ **IA LOCAL E PRIVACIDADE**<br>
+<kbd>LM Studio</kbd> <kbd>Modelos em hardware próprio</kbd> <kbd>SQLite</kbd> <kbd>Dados sob controle</kbd>
+
+◆ **DESENVOLVIMENTO**<br>
+<kbd>Python</kbd> <kbd>PySide6</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>Electron</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>C</kbd> <kbd>C++</kbd>
+
+◆ **FERRAMENTAS**<br>
+<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux CLI</kbd>
+
+◆ **EM TREINAMENTO**<br>
+<kbd>Machine learning</kbd> <kbd>Cibersegurança</kbd> <kbd>IA + ciências físicas</kbd>
 
 ## <img src="assets/titles/projects.svg" width="880" alt="03 / Missões" />
 
+<p align="center">
+  <img src="assets/titles/epi-projects.svg" width="880" alt="Missões em andamento" />
+</p>
+
 | Missão | Briefing |
 | :--- | :--- |
-| **[Betelgeuse A.I.](https://github.com/luizasenacafe/Aurora_AI)** | Aplicação desktop de IA local e privada: conecta modelos baixados no LM Studio e roda tudo no próprio computador ou em um servidor próprio, com prompts e conversas sob o controle de quem usa. |
-| **[Random Animes](https://luizasenacafe.github.io/random_animes/)** | Aplicação web para descobrir animes e mangás, com filtros por gênero e modos de navegação separados. |
-| **[Portfólio](https://luizasenacafe.github.io/)** | Meu quartel-general: projetos, experiência, formação e conteúdo em um só lugar. |
+| ◆ **[Betelgeuse A.I.](https://github.com/luizasenacafe/Aurora_AI)** | Aplicação desktop de IA local e privada: conecta modelos baixados no LM Studio e roda tudo no próprio computador ou em um servidor próprio, com prompts e conversas sob o controle de quem usa. |
+| ◆ **[Random Animes](https://luizasenacafe.github.io/random_animes/)** | Aplicação web para descobrir animes e mangás, com filtros por gênero e modos de navegação separados. |
+| ◆ **[Portfólio](https://luizasenacafe.github.io/)** | Meu quartel-general: projetos, experiência, formação e conteúdo em um só lugar. |
 
 ## <img src="assets/titles/learning.svg" width="880" alt="04 / Formação" />
 
-Três graduações, três pontos de vista: construir sistemas, entender inteligência artificial e investigar o mundo físico.
+<p align="center">
+  <img src="assets/titles/epi-learning.svg" width="880" alt="Três graduações, três pontos de vista" />
+</p>
 
-- **Ciência da Computação** — UNINTER · em andamento, conclusão prevista em 2030.
-- **Inteligência Artificial e Aprendizado de Máquina** — UNIASSELVI · em andamento, conclusão prevista no 1º semestre de 2029.
-- **Física (Licenciatura)** — Unicesumar · em andamento, conclusão prevista no 2º semestre de 2030.
+<p align="center"><em>Construir sistemas, entender inteligência artificial e investigar o mundo físico.</em></p>
+
+◆ **Ciência da Computação** <br><sub>UNINTER · em andamento, conclusão prevista em 2030</sub>
+
+◆ **Inteligência Artificial e Aprendizado de Máquina** <br><sub>UNIASSELVI · em andamento, conclusão prevista no 1º semestre de 2029</sub>
+
+◆ **Física (Licenciatura)** <br><sub>Unicesumar · em andamento, conclusão prevista no 2º semestre de 2030</sub>
+
 
 <details>
 <summary><strong>📜 Experiência e certificações</strong></summary>
@@ -95,7 +109,9 @@ Três graduações, três pontos de vista: construir sistemas, entender intelig�
 
 <div align="center">
 
-<p>IA, ciência, desenvolvimento ou uma boa recomendação de anime: o canal está aberto.</p>
+<img src="assets/titles/epi-contact.svg" width="880" alt="O canal está aberto" />
+
+<p><em>IA, ciência, desenvolvimento ou uma boa recomendação de anime.</em></p>
 
 <a href="https://www.linkedin.com/in/luiza-sena-5645913a7/">LinkedIn</a> ·
 <a href="https://luizasenacafe.github.io/">Portfólio</a> ·
@@ -114,6 +130,6 @@ Três graduações, três pontos de vista: construir sistemas, entender intelig�
 <details>
 <summary>Créditos</summary>
 
-Banners, títulos e painel de status criados para este perfil. Fontes dos títulos: Pirata One, Oswald e JetBrains Mono (SIL Open Font License). Ícones de tecnologia: [Skill Icons](https://skillicons.dev/). Badges: [Shields.io](https://shields.io/). Arcade: [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
+Banners, títulos e painel de status criados para este perfil. Fontes das artes: Pirata One, Oswald, Cormorant Garamond e JetBrains Mono (SIL Open Font License). Ícones de tecnologia: [Skill Icons](https://skillicons.dev/). Badges: [Shields.io](https://shields.io/). Arcade: [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
 
 </details>
